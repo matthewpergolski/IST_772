@@ -1,0 +1,15 @@
+BaylorEdPsych_0.5.tar.gz
+Receipts
+
+# macOS
+.DS_Store
+
+# R environment files
+.RData
+.Rhistory
+.Rproj.user/
+.Rproj
+*.tar.gz
+
+# Temporary files
+~$*
